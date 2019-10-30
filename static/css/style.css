@@ -1,0 +1,111 @@
+body{
+margin:0;
+}
+
+.google_image{
+    text-align: center;
+    padding:10px;
+}
+
+.text1{
+   text-align:center;
+   font-size: 2.2em;
+   color: #606060;
+}
+
+.text2{
+   text-align:center;
+   font-size: 1.2em;
+   color: #606060;
+}
+
+.centre{
+   text-align:center;
+   height:330px;
+   width:400px;
+   background-color:#F8F8F8;
+   margin:auto;
+   border:1px #B0B0B0 solid;
+   box-shadow:2px 3px #E8E8E8;
+}
+
+.anonymous_image{
+   padding:20px;
+}
+
+.enter_email{
+   background-color:#FFFF99;
+   width:250px;
+   height:40px;
+   font-size: 20px;
+}
+
+.next{
+   width:250px;
+   height:40px;
+   text-align:center;
+   margin-top:5px;
+   background-color:#0066FF;
+   font-size: 20px;
+   color:white;
+}
+
+.help{
+   float:right;
+   padding-right:20px;
+   padding-top:10px;
+
+}
+
+.create_account{
+     text-align:center;
+     margin-top:10px;
+}
+
+p{
+     text-align:center;
+
+}
+
+.logo{
+    width:40px;
+    height:40px;
+}
+
+.icons{
+    text-align:center;
+}
+
+.footer{
+   position:fixed;
+   bottom:0;
+   left:0;
+   width:100%;
+   height:10%;
+   font-size:14px;
+   border:#B0B0B0 1px solid;
+   box-shadow:5px 10px #707070;
+}
+
+.float_left{
+   float:left;
+   margin-top:10px;
+   margin-left:20px;
+   font-size: 1.2em;
+}
+
+.float_right{
+    float:right;
+    margin-top:10px;
+    margin-right:10px;
+    font-size: 1.2em;
+}
+
+.p_one_account{
+    margin-bottom: 1px;
+    margin-top: 25px;
+}
+
+.language{
+    font-size: 15px;
+}
